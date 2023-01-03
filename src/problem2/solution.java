@@ -1,4 +1,4 @@
-package problem1;
+package problem2;
 
 public class solution {
 }
